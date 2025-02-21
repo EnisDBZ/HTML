@@ -1,0 +1,17 @@
+body {
+    font-family: 'Roboto Mono';
+    text-align: center;
+}
+
+
+
+
+h1 {
+    font-family: 'Trebuchet MS';
+    font-size: 3rem;
+}
+
+p {
+    font-family: 'Roboto Mono';
+    font-size: 2rem;
+}
